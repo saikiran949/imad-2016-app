@@ -26,6 +26,7 @@ function createtemplate(data){
         <title>
             ${title}
         </title>
+        <meta name="viewpoint" content="width=device-width,initial-scale-1" />
         <link href="/ui/style.css" rel="stylesheet" />
        
       </head>
@@ -42,10 +43,10 @@ function createtemplate(data){
          ${content}
          </div>
          </body>
-</html>
-`;
+</html>`
+;
 
-    return htmltemplate;
+    return htmlTemplate;
 }
     
 
@@ -54,7 +55,7 @@ app.get('/', function (req, res) {
 });
 
 app.get('/articleone', function (req,res) {
-  res.send(createtemplate(articleone));
+  res.send(createTemplate(articleone));
 });
 
 app.get('/ui/style.css', function (req, res) {
