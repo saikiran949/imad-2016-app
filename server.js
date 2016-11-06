@@ -10,10 +10,10 @@ var articleone={
         heading:'ABOUT IIT-MADRAS',
         content:
         `<p>
-            Indian Institute of Technology Madras is a public engineering and research  institute  locate d in , Tamil Nadu and is one of India's most prestigious universities. It is recognised as an Institute of National Importance by the Government of India. Founded in 1959 with technical  and  financial assistance from the former government of West Germany, it was the third Indian Institute of Technology that was established by the Government of India through an Act of Parliament, to provide education and research facilities in engineering and technology.
+            Indian Institute of Technology Madras is a public engineering and research  institute  located in , Tamil Nadu and  is  one of  India's  most  prestigious  universities. It is recognised as an Institute of  National  Importance  by the Government of India. Founded in 1959 with  technical  and    assistance   the former  government  of  West Germany, it was  the   Indian  Institute of Technology that was established by the  Government of India  through an  Act of Parliament, to provide  education and  research facilities in engineering and technology.
         </p>
         <p>
-            IIT Madras is a residential institute that occupies a 2.5 square km campus that was formerly part of the adjoining Guindy National Park. The institute has nearly 550 faculty, 8,000 students and 1,250 administrative and supporting staff. Growing ever since it obtained its charter from the Indian Parliament in 1961, much of the campus is a protected forest, carved out of the Guindy National Park, home to large numbers of chital (spotted deer), black buck, monkeys, and other rare wildlife. A natural lake, deepened in 1988 and 2003, drains most of its rainwater.
+            IIT Madras  is a residential  institute  that occupies a 2.5 square kilometers  campus that  was formerly part  of the adjoining Guindy National Park. The institute has nearly 550 faculty, 8,000 students and 1,250 administrative and supporting staff. Growing ever since it obtained its charter from the Indian Parliament in 1961, much of the campus is a protected forest, carved out of the Guindy National Park, home to large numbers of chital (spotted deer), black buck, monkeys, and other rare wildlife. A natural lake, deepened in 1988 and 2003, drains most of its rainwater.
 
         </p>`
             
@@ -36,7 +36,6 @@ function createTemplate (data) {
          <div class='container'>
            <div>
              <a href="/">home</a>
-             <a href="/">iit</a>
          </div>
          <hr/>
          <h3>
