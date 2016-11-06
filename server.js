@@ -15,7 +15,11 @@ var articleone={
         <p>
             IIT Madras is a residential institute that occupies a 2.5 square km campus that was formerly part of the adjoining Guindy National Park. The institute has nearly 550 faculty, 8,000 students and 1,250 administrative and supporting staff. Growing ever since it obtained its charter from the Indian Parliament in 1961, much of the campus is a protected forest, carved out of the Guindy National Park, home to large numbers of chital (spotted deer), black buck, monkeys, and other rare wildlife. A natural lake, deepened in 1988 and 2003, drains most of its rainwater.
 
-        </p>`
+        </p>
+        <h4>
+           residental
+         </h4>
+            
 };
 function createTemplate (data) {
     var title=data.title;
