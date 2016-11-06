@@ -17,11 +17,12 @@ var articleone={
 
         </p>`
 };
-function createtemplate(data){
+function createtemplate (data) {
     var title=data.title;
     var heading=data.heading;
     var content=data.content;
- var htmltemplate=`
+
+ var htmlTemplate=`
 <html>
      <head>
         <title>
@@ -29,21 +30,21 @@ function createtemplate(data){
         </title>
         <meta name="viewpoint" content="width=device-width,initial-scale=1" />
         <link href="/ui/style.css" rel="stylesheet" />
-       
-      </head>
-<body>
+ </head>
+ <body>
          <div class='container'>
-         <div>
-         <a href="/">home</a>
+           <div>
+             <a href="/">home</a>
          </div>
          <hr/>
          <h3>
-         ${heading}
+            ${heading}
          </h3>
          <div>
-         ${content}
+             ${content}
+           </div>
          </div>
-         </body>
+   </body>
 </html>`
 ;
 
