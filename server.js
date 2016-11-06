@@ -17,11 +17,12 @@ var articleone={
 
         </p>
         <p>
-         Internationally, IIT Madras was ranked #254 in the QS World University Rankings of 2015,[30] 56 in the QS Asian University Rankings and 20 in the QS BRICS University Rankings of 2015.[31]
-
+         Internationally, IIT Madras was ranked #254 in the QS World University Rankings of 2015, 56 in the QS Asian University Rankings and 20 in the QS BRICS University Rankings of 2015.
+        <p>
             The Times Higher Education World Rankings ranked it at 78 and 44 in Asia and BRICS countries respectively in 2015.
-
-            In India, National Institutional Ranking Framework has ranked it No.1 Engineering Institution in 2016.[40]
+         </p>
+         <p>
+            In India, National Institutional Ranking Framework has ranked it No.1 Engineering Institution in 2016.
 </p>`
 
             
