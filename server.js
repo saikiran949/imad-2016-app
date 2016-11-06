@@ -8,7 +8,8 @@ app.use(morgan('combined'));
 var articleone={
         title:' IIT-MADRAS',
         heading:'ABOUT IIT-MADRAS',
-        content:`<p>
+        content:
+        `<p>
             Indian Institute of Technology Madras is a public engineering and research institute located in , Tamil Nadu and is one of India's most prestigious universities. It is recognised as an Institute of National Importance by the Government of India. Founded in 1959 with technical and financial assistance from the former government of West Germany, it was the third Indian Institute of Technology that was established by the Government of India through an Act of Parliament, to provide education and research facilities in engineering and technology.
         </p>
         <p>
@@ -18,9 +19,9 @@ var articleone={
 };
 function createtemplate(data){
     var title=data.title;
+    var heading=data.heading;
     var content=data.content;
-
-    var htmltemplate=`
+ var htmltemplate=`
 <html>
      <head>
         <title>
