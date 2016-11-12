@@ -109,7 +109,7 @@ var articles={
         Delhi Technological University's departments of Chemical Technology and Textile Technology were shifted out en-block to mark the beginning of IIT Delhi at its campus in Hauz Khas. The Delhi Technological University is thus the mother institution of IIT Delhi. The school, originally named the College of Engineering & Technology, was registered as a Society on 14 June 1960, and classes began in August 1961. The school was later accorded the status of a University and was renamed as Indian Institute of Technology Delhi.
         </p>
         <p>
-
+        IIT Delhi is located in Hauz Khas, South Delhi. The campus of 325 acres (132 ha) is surrounded by the beautiful Hauz Khas area and monuments such as the Qutub Minar and Lotus Temple.[3] The campus is also close to other educational institutions such as the Jawaharlal Nehru University, All India Institute of Medical Sciences, National Institute of Fashion Technology, National Council of Educational Research and Training (NCERT) and Indian Statistical Institute.
         </p>
         <p>
         <p>
