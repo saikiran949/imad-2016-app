@@ -143,10 +143,12 @@ var articles={
         Indian Institute of Technology Guwahati (IIT Guwahati, IITG) is a public institution established by the Government of India, located in Guwahati, in the state of Assam in India. It is the sixth Indian Institute of Technology established in India.
         </p>
         <p>
-        
-
-        </p>
+        The history of IIT Guwahati traces its roots to the 1985 Assam Accord[6] signed between the All Assam Students Union and the Government of India, which mentions the general improvement in education facilities in Assam and specifically the setting up of an IIT.
+       </p>
         <p>
+        The campus of IIT Guwahati is on the northern banks of Brahmaputra and abuts the North Guwahati town of Amingaon, pincode-781039. It is considered as the most beautiful campus in India.
+
+
         <p>
             
          </p>
