@@ -73,6 +73,8 @@ var articles={
 
         </p>
         <p>
+         As part of Nehru's dream for a free self-sufficient India, the institute was established to train scientists and engineers after India attained independence in 1947. It shares its organisational structure and undergraduate admission process with sister IITs. The students and alumni of IIT Kharagpur are informally referred to as KGPians. Among all IITs, IIT Kharagpur has the largest campus (2,100 acres),[4] the most departments, and the highest student enrollment. IIT Kharagpur is known for its festivals: Spring Fest (Social and Cultural Festival) and Kshitij (Asia's largest Techno-Management Festival).
+
 
         </p>
         <p>
