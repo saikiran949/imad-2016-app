@@ -157,17 +157,17 @@ var articles={
         heading:'ABOUT IIT-HYDERABAD',
         content:
         `<p>
-        The Indian Institute of Technology Hyderabad (IIT Hyderabad, IITH) is a public university located in Sangareddy district, Telangana, India. IIT Hyderabad is one of the eight new Indian Institutes of Technology (IITs)[1] established by the Ministry of Human Resource Development, Government of India under the Institutes of Technology (Amendment) Act, 2011. The Act was passed in the Lok Sabha on 24 March 2011[2] and by the Rajya Sabha on 30 April 2012.[3] IIT Hyderabad has 826 Undergraduate, 395 Masters and 474 Ph.D. students. IITH has 142 full-time faculty. All the academic and administrative operations were shifted to the permanent campus at Kandi, Sangareddy in July 2015, although a fraction of the students stay at the temporary campus in the Ordinance Factory, Medak. All students are expected to shift to the permanent campus by the start of academic year 2016-2017. IITH is the top seventh premiere institute among the all the technical institutions of India in 2016 according to the MHRD rankings.[4]
+        The Indian Institute of Technology Hyderabad (IIT Hyderabad, IITH) is a public university located in Sangareddy district, Telangana, India. IIT Hyderabad is one of the eight new Indian Institutes of Technology (IITs) established by the Ministry of Human Resource Development, Government of India under the Institutes of Technology (Amendment) Act, 2011. The Act was passed in the Lok Sabha on 24 March 2011 and by the Rajya Sabha on 30 April 2012. IIT Hyderabad has 826 Undergraduate, 395 Masters and 474 Ph.D. students. IITH has 142 full-time faculty. All the academic and administrative operations were shifted to the permanent campus at Kandi, Sangareddy in July 2015, although a fraction of the students stay at the temporary campus in the Ordinance Factory, Medak. All students are expected to shift to the permanent campus by the start of academic year 2016-2017. IITH is the top seventh premiere institute among the all the technical institutions of India in 2016 according to the MHRD rankings.
 
 
         </p>
         <p>
-          IIT Hyderabad began functioning on 18 August 2008 from temporary campus at Ordnance Factory Medak, Eddumailaram. IIT Hyderabad's permanent campus is located at Kandi near Sangareddy and is close to the Outer Ring Road (Hyderabad).[5] The campus is located on NH-65 and is also close to the Outer Ring Road (Hyderabad). The institute shifted most of its operations to the permanent campus in July 2015.
+          IIT Hyderabad began functioning on 18 August 2008 from temporary campus at Ordnance Factory Medak, Eddumailaram. IIT Hyderabad's permanent campus is located at Kandi near Sangareddy and is close to the Outer Ring Road (Hyderabad). The campus is located on NH-65 and is also close to the Outer Ring Road (Hyderabad). The institute shifted most of its operations to the permanent campus in July 2015.
 
 
         </p>
         <p>
-        The institute is currently in Phase 1 of construction; 3 academic blocks and 10 functioning hostel buildings (each with a capacity of 192 students) will be ready by the beginning of the academic year 2016-2017. The hostels are well connected to Institute main gate through internal transportation. The new campus's location on the national highway gives it easy access to the city of Hyderabad.[6] [7][8]
+        The institute is currently in Phase 1 of construction; 3 academic blocks and 10 functioning hostel buildings (each with a capacity of 192 students) will be ready by the beginning of the academic year 2016-2017. The hostels are well connected to Institute main gate through internal transportation. The new campus's location on the national highway gives it easy access to the city of Hyderabad.
         </p>
          <p>
          IIT Hyderabad is ranked 7 in the National Institutional Ranking Framework published by Ministry of Human Resource Development in April 2016.
