@@ -106,6 +106,7 @@ var articles={
         heading:'ABOUT IIT-DELHI',
         content:
         `<p>
+        Delhi Technological University's departments of Chemical Technology and Textile Technology were shifted out en-block to mark the beginning of IIT Delhi at its campus in Hauz Khas. The Delhi Technological University is thus the mother institution of IIT Delhi. The school, originally named the College of Engineering & Technology, was registered as a Society on 14 June 1960, and classes began in August 1961. The school was later accorded the status of a University and was renamed as Indian Institute of Technology Delhi.
         </p>
         <p>
 
