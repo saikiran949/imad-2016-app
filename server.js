@@ -27,7 +27,7 @@ var articles={
 </p>`
 
 }
-    iitmadras:{
+    iitbombay:{
         title:' IIT-bombay',
         heading:'ABOUT Iit',
         content:
