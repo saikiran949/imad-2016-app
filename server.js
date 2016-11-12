@@ -157,6 +157,9 @@ var articles={
         heading:'ABOUT IIT-HYDERABAD',
         content:
         `<p>
+        The Indian Institute of Technology Hyderabad (IIT Hyderabad, IITH) is a public university located in Sangareddy district, Telangana, India. IIT Hyderabad is one of the eight new Indian Institutes of Technology (IITs)[1] established by the Ministry of Human Resource Development, Government of India under the Institutes of Technology (Amendment) Act, 2011. The Act was passed in the Lok Sabha on 24 March 2011[2] and by the Rajya Sabha on 30 April 2012.[3] IIT Hyderabad has 826 Undergraduate, 395 Masters and 474 Ph.D. students. IITH has 142 full-time faculty. All the academic and administrative operations were shifted to the permanent campus at Kandi, Sangareddy in July 2015, although a fraction of the students stay at the temporary campus in the Ordinance Factory, Medak. All students are expected to shift to the permanent campus by the start of academic year 2016-2017. IITH is the top seventh premiere institute among the all the technical institutions of India in 2016 according to the MHRD rankings.[4]
+
+
         </p>
         <p>
 
