@@ -45,7 +45,7 @@ var articles={
             
 </p>`
 },
-    'iitKANPUR':{
+    'iitkanpur':{
         title:' IIT-KANPUR',
         heading:'ABOUT IIT-KANPUR',
         content:
