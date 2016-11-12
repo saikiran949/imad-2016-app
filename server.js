@@ -162,6 +162,8 @@ var articles={
 
         </p>
         <p>
+          IIT Hyderabad began functioning on 18 August 2008 from temporary campus at Ordnance Factory Medak, Eddumailaram. IIT Hyderabad's permanent campus is located at Kandi near Sangareddy and is close to the Outer Ring Road (Hyderabad).[5] The campus is located on NH-65 and is also close to the Outer Ring Road (Hyderabad). The institute shifted most of its operations to the permanent campus in July 2015.
+
 
         </p>
         <p>
