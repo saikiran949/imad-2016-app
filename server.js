@@ -68,7 +68,9 @@ var articles={
         heading:'ABOUT IIT-KHARAKPUR',
         content:
         `<p>
-        
+        The Indian Institute of Technology Kharagpur (IIT Kharagpur or IIT KGP; )is a public engineering institution established by the government of India in 1951. It was the first of the IITs to be established, and is recognized as an Institute of National Importance by the Government of India.
+
+
         </p>
         <p>
 
