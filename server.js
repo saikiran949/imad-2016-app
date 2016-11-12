@@ -47,7 +47,7 @@ var articles={
             In India, National Institutional Ranking Framework has ranked it No.1 Engineering Institution in 2016.
 </p>`
 
-}
+},=;
 function createTemplate (data) {
     var title=data.title;
     var heading=data.heading;
