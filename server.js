@@ -167,10 +167,10 @@ var articles={
 
         </p>
         <p>
-        <p>
-            
-         </p>
+        The institute is currently in Phase 1 of construction; 3 academic blocks and 10 functioning hostel buildings (each with a capacity of 192 students) will be ready by the beginning of the academic year 2016-2017. The hostels are well connected to Institute main gate through internal transportation. The new campus's location on the national highway gives it easy access to the city of Hyderabad.[6] [7][8]
+        </p>
          <p>
+         IIT Hyderabad is ranked 7 in the National Institutional Ranking Framework published by Ministry of Human Resource Development in April 2016.
             
 </p>`
 },
