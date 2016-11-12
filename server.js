@@ -147,12 +147,12 @@ var articles={
        </p>
         <p>
         The campus of IIT Guwahati is on the northern banks of Brahmaputra and abuts the North Guwahati town of Amingaon, pincode-781039. It is considered as the most beautiful campus in India.
-
+        </p>
+        
 
         <p>
-            
-         </p>
-         <p>
+        Internationally, IIT Guwahati was ranked 451-460 in the QS World University Ranking of 2015[11] and 89 in the QS Asian University Rankings of 2012.[12] In 2016 QS World Universities Rankings by subject, Electronics & Electrical Engineering department is ranked 201-250,[17] Mechanical department is ranked 201-300,[18] Chemistry department is ranked 301-400 [19] and Computer Science department is ranked 401-500.[20] In India, among engineering colleges, it ranked 10 by India Today in 2012,[13] 8 by Outlook India in 2012[14] and 7 by Dataquest in 2011.[15] In the Mint Government Colleges survey of 2009 it ranked 6.[21] The Chemical Engineering department was ranked 101-150 in the QS World University Rankings by Subject 2012.[22] In 2014, IIT Guwahati has been ranked 87 in '100 Top Global Universities Under 50 Years' by the Times Higher Education World University Rankings, bringing India in the list for the very first time.[23] In 2015, IIT Guwahati has been ranked 61-70 in 'QS University Rankings: Top 50 Under 50' by the QS World University Rankings.[24] and rated AAAA+ by Careers360.
+         
             
 </p>`
 },
