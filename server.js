@@ -140,8 +140,10 @@ var articles={
         heading:'ABOUT IIT-GUWAHATI',
         content:
         `<p>
+        Indian Institute of Technology Guwahati (IIT Guwahati, IITG) is a public institution established by the Government of India, located in Guwahati, in the state of Assam in India. It is the sixth Indian Institute of Technology established in India.
         </p>
         <p>
+        
 
         </p>
         <p>
