@@ -26,15 +26,6 @@ var articles={
             In India, National Institutional Ranking Framework has ranked it No.1 Engineering Institution in 2016.
 </p>`
 
-}
-    iitbombay:{
-        title:' IIT-BOMBAY',
-        heading:'ABOUT IIT-BOMBAY',
-        content:
-        `<p>
-            Indian Institute of Technology Madras is a publicamework has ranked it No.1 Engineering Institution in 2016.
-</p>`
-
 };
 function createTemplate (data) {
     var title=data.title;
