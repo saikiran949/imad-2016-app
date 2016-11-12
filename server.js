@@ -78,13 +78,8 @@ var articles={
 
         </p>
         <p>
-        
-        <p>
-            
-         </p>
-         <p>
-            
-</p>`
+        Internationally, IIT Kharagpur is ranked 286 in the QS World University Rankings (Quacquarelli Symonds) of 2015[55][45] and 60 in the QS Asian University Rankings of 2014.[56][57][46] IIT Kharagpur is ranked 3 in National Institutional Ranking Framework published by Ministry of Human Resource Development in April 2016.[58][59]
+       </p>`
 },
     'iitgandhinagar':{
         title:' IIT-GANDHINAGAR',
