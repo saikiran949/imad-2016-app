@@ -5,7 +5,8 @@ var path = require('path');
 var app = express();
 app.use(morgan('combined'));
 
-var articleone={
+var articles={
+    iitmadras:{
         title:' IIT-MADRAS',
         heading:'ABOUT IIT-MADRAS',
         content:
@@ -26,7 +27,7 @@ var articleone={
 </p>`
 
             
-};
+},
 function createTemplate (data) {
     var title=data.title;
     var heading=data.heading;
