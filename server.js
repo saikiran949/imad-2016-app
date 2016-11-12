@@ -28,8 +28,8 @@ var articles={
 
 }
     iitbombay:{
-        title:' IIT-bombay',
-        heading:'ABOUT Iit',
+        title:' IIT-BOMBAY',
+        heading:'ABOUT IIT-BOMBAY',
         content:
         `<p>
             Indian Institute of Technology Madras is a public engineering and research  institute  located in , Tamil Nadu and  is  one of  India's  most  prestigious  universities. It is recognised as an Institute of  National  Importance  by the Government of India. Founded in 1959 with  technical  and    assistance   the former  government  of  West Germany, it was  the   Indian  Institute of Technology that was established by the  Government of India  through an  Act of Parliament, to provide  education and  research facilities in engineering and technology.
