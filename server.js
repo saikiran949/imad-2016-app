@@ -6,7 +6,7 @@ var app = express();
 app.use(morgan('combined'));
 
 var articles={
-    'iitmadras':{
+    'iit-madras':{
         title:' IIT-MADRAS',
         heading:'ABOUT IIT-MADRAS',
         content:
