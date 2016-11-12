@@ -27,7 +27,7 @@ var articles={
 </p>`
 
             
-},
+}
 function createTemplate (data) {
     var title=data.title;
     var heading=data.heading;
@@ -56,10 +56,10 @@ function createTemplate (data) {
            </div>
          </div>
    </body>
-</html>`
-;
+</html>
+`;
 
-    return htmlTemplate;
+ return htmlTemplate;
 }
     
 
