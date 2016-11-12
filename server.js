@@ -112,12 +112,11 @@ var articles={
         IIT Delhi is located in Hauz Khas, South Delhi. The campus of 325 acres (132 ha) is surrounded by the beautiful Hauz Khas area and monuments such as the Qutub Minar and Lotus Temple.[3] The campus is also close to other educational institutions such as the Jawaharlal Nehru University, All India Institute of Medical Sciences, National Institute of Fashion Technology, National Council of Educational Research and Training (NCERT) and Indian Statistical Institute.
         </p>
         <p>
+        Internationally, IIT Delhi was ranked #185 in the QS World University Rankings in 2016[2] and at 38 in the QS Asian Rankings of 2014.[44][45] IIT Delhi has responded to being ranked 176 on the QS Worldwide University Rankings, with an appeal for more "investment in - and support for - the faculty."[46]
+        </p>
         <p>
-            
-         </p>
-         <p>
-            
-</p>`
+        In 2014, the University ranked 4th in top higher education institutions in India, 59th in top 100 higher education Institutes in Asia.[47] In 2016, it has been ranked 5 in Careers360 Top Universities in India 2016[48] and ranks at 56th in BRICS and Emerging Economies[49] by the Times Higher Education World University Rankings [50]
+        </p>`
 },
     'iitroorke':{
         title:' IIT-ROORKEE',
