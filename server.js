@@ -26,7 +26,7 @@ var articles={
             In India, National Institutional Ranking Framework has ranked it No.1 Engineering Institution in 2016.
 </p>`
 },
-    'iit-bombay':{
+    'iitbombay':{
         title:' IIT-bombay',
         heading:'ABOUT IIT-bombay',
         content:
