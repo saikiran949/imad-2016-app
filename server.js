@@ -66,7 +66,7 @@ app.get('/', function (req, res) {
   res.sendFile(path.join(__dirname, 'ui', 'index.html'));
 });
 
-app.get('/:iit-name', function (req,res) {
+app.get('/:iitname', function (req,res) {
     var iitname=req.params.iitname;
   res.send(createTemplate(iit[iitname]));
 });
