@@ -32,7 +32,7 @@ var articles={
         heading:'ABOUT IIT-BOMBAY',
         content:
         `<p>
-        it
+        Institute of Technology Bombay (abbreviated IITB or IIT Bombay) is a public engineering and research institution located
         
         </p>
         <p>
