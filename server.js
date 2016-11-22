@@ -32,6 +32,7 @@ var articles={
         heading:'ABOUT IIT-BOMBAY',
         content:
         `<p>
+        it
         
         </p>
         <p>
