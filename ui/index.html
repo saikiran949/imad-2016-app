@@ -10,6 +10,10 @@
         <div>
             <a href="/">iitmadras</a>
         </div>
+        app.get('/:iitname', function (req,res) {
+        var iitname=req.params.iitname;
+        res.send(createTemplate(articles[iitname]));
+         });
         <h3>PERSONAL</h3>
         <div>
              Hi.Iam sai kiran
