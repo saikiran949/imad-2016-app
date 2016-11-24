@@ -22,6 +22,10 @@
             Iam a student at QIS college of engineering and technology
           </div>
           <hr/>
+          app.get('/:iitname', function (req,res) {
+    var iitname=req.params.iitname;
+  res.send(createTemplate(articles[iitname]));
+});
     </div>
         <script type="text/javascript" src="/ui/main.js">
         </script>
