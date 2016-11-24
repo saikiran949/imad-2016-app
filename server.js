@@ -4,9 +4,10 @@ var path = require('path');
 
 var app = express();
 app.use(morgan('combined
-  <a href="/">iitmadras</a>
+  <a href="/">home</a>
 
 var articles={
+      <a href="/">home</a>
     'iitmadras':{
         title:' IIT-MADRAS',
         heading:'ABOUT IIT-MADRAS',
