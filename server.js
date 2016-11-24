@@ -6,7 +6,6 @@ var app = express();
 app.use(morgan('combined')
 
 var articles={
-      <a href="/">home</a>
     'iitmadras':{
         title:' IIT-MADRAS',
         heading:'ABOUT IIT-MADRAS',
