@@ -3,8 +3,7 @@ var morgan = require('morgan');
 var path = require('path');
 
 var app = express();
-app.use(morgan('combined
-  <a href="/">home</a>
+app.use(morgan('combined')
 
 var articles={
       <a href="/">home</a>
