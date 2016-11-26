@@ -27,43 +27,7 @@ var articles={
             In India, National Institutional Ranking Framework has ranked it No.1 Engineering Institution in 2016.
 </p>`
 },
-    'iitbombay':{
-        title:' IIT-BOMBAY',
-        heading:'ABOUT IIT-BOMBAY',
-        content:
-        `<p>
-       the  Institute of Technology Bombay (abbreviated IITB or IIT Bombay) is a public engineering and research institution located
-        
-        </p>
-        <p>
 
-        </p>
-        <p>
-        <p>
-            
-         </p>
-         <p>
-            
-</p>`
-},
-    'iitkanpur':{
-        title:' IIT-KANPUR',
-        heading:'ABOUT IIT-KANPUR',
-        content:
-        `<p>
-        
-        </p>
-        <p>
-
-        </p>
-        <p>
-        <p>
-            
-         </p>
-         <p>
-            
-</p>`
-},
 'iitkharakpur':{
         title:' IIT-KHARAKPUR',
         heading:'ABOUT IIT-KHARAKPUR',
@@ -117,23 +81,6 @@ var articles={
         <p>
         In 2014, the University ranked 4th in top higher education institutions in India, 59th in top 100 higher education Institutes in Asia. In 2016, it has been ranked 5 in Careers360 Top Universities in India 2016 and ranks at 56th in BRICS and Emerging Economies by the Times Higher Education World University Rankings
         </p>`
-},
-    'iitroorke':{
-        title:' IIT-ROORKEE',
-        heading:'ABOUT IIT-ROORKEE',
-        content:
-        `<p>
-        </p>
-        <p>
-
-        </p>
-        <p>
-        <p>
-            
-         </p>
-         <p>
-            
-</p>`
 },
     'iitguwahati':{
         title:' IIT-GUWAHATI',
